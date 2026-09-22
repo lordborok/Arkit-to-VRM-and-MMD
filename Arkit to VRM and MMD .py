@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "ARKit → VRM/MMD Expression Generator (Final)",
+    "name": "ARKit → VRM/MMD Expression Generator",
     "author": "Hans + Copilot",
     "version": (1, 3, 0),
     "blender": (4, 0, 0),
